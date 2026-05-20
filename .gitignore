@@ -1,0 +1,9 @@
+.env
+*.env
+*service-account*.json
+*google*credentials*.json
+outputs/*.xlsx
+outputs/*.csv
+outputs/*.log
+__pycache__/
+*.pyc

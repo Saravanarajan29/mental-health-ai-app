@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+  <title id="title">Pencil</title>
+  <desc id="desc">A yellow pencil for an object naming task.</desc>
+  <rect width="320" height="180" rx="18" fill="#f8fafc"/>
+  <g transform="translate(36 82) rotate(-12)">
+    <path d="M18 24h188l36 20-36 20H18z" fill="#f5c84c" stroke="#5c6670" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M206 24l36 20-36 20z" fill="#e8d3b0" stroke="#5c6670" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M236 40l6 4-6 4z" fill="#2f3438"/>
+    <path d="M18 24H-8v40h26z" fill="#ef8da2" stroke="#5c6670" stroke-width="4"/>
+    <path d="M18 24h18v40H18z" fill="#d7dde4" stroke="#5c6670" stroke-width="4"/>
+    <line x1="58" y1="24" x2="58" y2="64" stroke="#d19a21" stroke-width="3"/>
+    <line x1="76" y1="24" x2="76" y2="64" stroke="#d19a21" stroke-width="3"/>
+  </g>
+</svg>

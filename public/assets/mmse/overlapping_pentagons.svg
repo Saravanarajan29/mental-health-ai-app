@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+  <title id="title">Two overlapping pentagons</title>
+  <desc id="desc">A target design made of two overlapping pentagons for an MMSE copy design task.</desc>
+  <rect width="320" height="180" rx="18" fill="#f8fafc"/>
+  <g fill="none" stroke="#24313a" stroke-width="8" stroke-linejoin="round">
+    <path d="M78 72 112 42 154 60 148 112 96 124z"/>
+    <path d="M142 60 184 42 220 72 202 124 150 112z"/>
+  </g>
+  <path d="M142 60 154 60 148 112 150 112" fill="none" stroke="#2a9d8f" stroke-width="5" stroke-linecap="round"/>
+</svg>
