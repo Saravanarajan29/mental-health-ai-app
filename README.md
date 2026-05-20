@@ -4,11 +4,20 @@ A Streamlit-based educational prototype for anonymous preliminary mental health 
 
 > This project is for education and preliminary screening only. It is not a diagnosis, clinical advice, or a replacement for support from a qualified healthcare professional.
 
+## Live Website
+
+The deployed Streamlit app is available at:
+
+```text
+https://mental-health-ai-app.streamlit.app/
+```
+
 ## Current Status
 
 The app is ready for Streamlit deployment from a code/startup perspective.
 
 - Entry point: `app.py`
+- Published website: `https://mental-health-ai-app.streamlit.app/`
 - Python runtime: `runtime.txt` uses Python 3.11
 - Dependencies: `requirements.txt`
 - Streamlit config: `.streamlit/config.toml`
